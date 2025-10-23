@@ -41,3 +41,11 @@ CPSC 411A - Midterm Project (Fall 2025)
 [Link to Demo](https://youtu.be/AgfdgM1IKbE)
 
 Click the thumbnail to watch the app in action.
+
+---
+
+## Author
+
+| Name                 | CWID      | Email                                                                           |
+| -------------------- | --------- | ------------------------------------------------------------------------------- |
+| **Anish Ummenthala** | 866515844 | [ummenthala.anish@csu.fullerton.edu](mailto:ummenthala.anish@csu.fullerton.edu) |
