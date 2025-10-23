@@ -38,6 +38,6 @@ CPSC 411A - Midterm Project (Fall 2025)
 
 ## Demo Video
 
-[Link to Demo](assets/project-recording.mp4)
+[Link to Demo](https://youtu.be/AgfdgM1IKbE)
 
 Click the thumbnail to watch the app in action.
